@@ -1,0 +1,33 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>尼采的故事</title>
+</head>
+
+
+<body>
+<h1>尼采的故事</h1>
+<p><a href="#A">簡介</a>   <a href="#B">作品</a> </p>
+
+<h2 id="A">簡介</h2>
+  <p>弗德里希·威廉·尼采，1844年10月15日－1900年8月25日，是出身德國的古典語言學家和哲學家。<br>
+ 他最初是普魯士公民，1869年移居瑞士的巴塞爾後，他應自己的要求成為無國籍人。<br>
+ 他也以創作詩歌和音樂作品為副業。</p>
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d43082.849063916685!2d7.55938456571002!3d47.554594120267225!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x479049c72769304f%3A0x361ceb70f36d8a90!2z55Ge5aOr5be05aGe54i-!5e0!3m2!1szh-TW!2stw!4v1677681393832!5m2!1szh-TW!2stw" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>  
+	
+	<h2>他的照片</h2>
+	<p><img src="Nietzsche187a.jpg" width="450" height="608" alt=""/>
+  
+<h2 id="B">作品</h2>
+<ul>
+  <li>1886年出版的《善惡的彼岸：未來哲學的序曲》（Jenseits von Gut und Böse. Vorspiel einer Philosophie der Zukunft）
+  <li>1887年出版的《道德譜系學》（Zur Genealogie der Moral）
+  <li>1883-1885年間完成的《查拉圖斯特拉如是說：一本寫給所有人及不寫給任何人的書》（Also Sprach Zarathustra, Ein Buch für Alle und Keinen）
+  <li>1888年出版的《瞧！這個人》（Ecce Homo）
+</ul>
+
+</body>
+	
+</html>
